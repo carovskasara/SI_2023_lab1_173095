@@ -1,0 +1,25 @@
+HP@DESKTOP-SJURLKM MINGW64 ~/Desktop/SI_2023_lab1_173095 (main)
+$ git log
+commit 89a3d9afcf1be53ce96874f5248829e239acf231 (HEAD -> main, origin/main, bug3)
+Author: Sara Carovska <carovska29@gmail.com>
+Date:   Sat Apr 8 13:46:44 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 2fe83b9f0922713c51e43793c90b1ffe064972a5
+Author: Sara Carovska <carovska29@gmail.com>
+Date:   Sat Apr 8 14:03:02 2023 +0200
+
+    Merged branches
+
+commit d89e5f6e6018a383f7e813209de6a9dd3346cd7b (origin/bug1, bug1)
+Author: Sara Carovska <carovska29@gmail.com>
+Date:   Sat Apr 8 13:43:36 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 2005b0de1f9682d8c37384b205e136ec293a4331
+Author: Sara Carovska <carovska29@gmail.com>
+Date:   Sat Apr 8 13:20:55 2023 +0200
+
+    Add java class
